@@ -101,7 +101,7 @@ export const experience: Experience[] = [
   },
   {
     date: 'Nov 2017 – Oct 2018',
-    title: 'Software Developer',
+    title: 'Senior Software Developer',
     organisation: 'Stafits',
     organisationUrl: 'https://www.linkedin.com/company/stafits/',
     employment: 'Permanent full-time',
