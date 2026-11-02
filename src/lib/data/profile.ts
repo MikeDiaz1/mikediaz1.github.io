@@ -49,9 +49,12 @@ export const experience: Experience[] = [
     initials: 'UBC',
     logo: 'images/AIM_logo.jpg',
     bullets: [
-      'Developed end-to-end PyTorch multiple-instance learning pipelines for pathology slide images with focuses on cohort shift, label stability, and task calibration',
-      'MSI screening strategy with 94% sensitivity and 98% NPV in multi-institutional external validation',
-      'Containerization, GPU-cluster workflows, multi-terabyte scale training and downstream analysis'
+      'Built PyTorch pipelines for classifying biomarkers from histology, leveraging terabyte scale data and pathology foundation models (UNI, Optimus, GigaPath, Phikon). Used multiple-instance learning and ensembling',
+      'Evaluated reference stability, domain shift, and interpretability with multi-institutional healthcare cohorts (TCGA, BC Cancer, MD Anderson)',
+      'Developed a microsatellite instability pre-screening classifier with 94% sensitivity and 98% negative predictive value in retrospective external validation',
+      'Domain adapted tumor pseudo-labeling with supervised finetuning to improve performance on biopsy samples',
+      'Interpreted models with attention maps and vision-language models (PathGen-LLaVA, MedGemma)',
+      'Created reproducible, containerized GPU workflows using Singularity and SLURM on remote access Linux'
     ]
   },
   {
@@ -65,8 +68,7 @@ export const experience: Experience[] = [
     initials: 'PHC',
     logo: 'images/providencehealthcare_logo.jpg',
     bullets: [
-      'Proposed an AI screening framework for pacemaker lead extractions using clinical CT images',
-      'Coordinated work with cardiac surgeons and presented at the UBC SBME Symposium'
+      'Worked on CT-based AI screening for evaluation of pacemaker extraction risk, presented poster research'
     ]
   },
   {
@@ -110,7 +112,8 @@ export const experience: Experience[] = [
     initials: 'S',
     logo: 'images/stafits_logo.jpg',
     bullets: [
-      'Developed full-stack web and mobile applications using MongoDB, Express, React and Node.js; deployed backend services on AWS.'
+      'Technical ownership of zero-to-one MERN stack website and customer-management backend deployment',
+      'Also built a browser extension and mobile application | Fast paced startup environment | Google Places API'
     ]
   }
 ];
