@@ -95,7 +95,12 @@ export const projects: Project[] = [
       "Multiple-Instance Learning",
       "Foundation Models"
     ],
-    "links": [],
+    "links": [
+      {
+        "label": "Read the thesis on UBC cIRcle",
+        "href": "https://doi.org/10.14288/1.0457100"
+      }
+    ],
     "related": [
       "cms-reference-labels",
       "survival-modelling"
@@ -146,7 +151,12 @@ export const projects: Project[] = [
       "Domain Shift",
       "Model Evaluation"
     ],
-    "links": [],
+    "links": [
+      {
+        "label": "Read the thesis on UBC cIRcle",
+        "href": "https://doi.org/10.14288/1.0457100"
+      }
+    ],
     "related": [
       "cms-reference-labels",
       "medical-image-ai"
@@ -186,7 +196,12 @@ export const projects: Project[] = [
       "Model Evaluation",
       "Gene Expression"
     ],
-    "links": [],
+    "links": [
+      {
+        "label": "Read the thesis on UBC cIRcle",
+        "href": "https://doi.org/10.14288/1.0457100"
+      }
+    ],
     "related": [
       "medical-image-ai",
       "survival-modelling"

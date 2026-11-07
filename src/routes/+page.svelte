@@ -112,7 +112,7 @@
   </section>
 
   <section class="resume-section" aria-labelledby="publications-heading">
-    <h2 class="section-label" id="publications-heading">Publications</h2>
+    <h2 class="section-label" id="publications-heading">Publications &amp; Thesis</h2>
     <ol class="publication-list">
       {#each publications as publication}
         <li>

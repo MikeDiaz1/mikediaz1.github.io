@@ -153,6 +153,12 @@ export const education: Education[] = [
 
 export const publications = [
   {
+    authors: 'Diaz-Stewart M.',
+    title: 'Task-Dependent Utility of Computational Pathology in Colorectal Cancer.',
+    journal: "Master's thesis. University of British Columbia; 2026.",
+    doi: '10.14288/1.0457100'
+  },
+  {
     authors: 'Hadjifaradji A, Diaz-Stewart M, Chu J, et al.',
     title: 'A Deep Learning Framework for Classification of Neuroendocrine Neoplasm Whole Slide Images.',
     journal: 'Cancers. 2025;17(18):2991.',
